@@ -1,2 +1,6 @@
 # UFCModeling
 A statistical analysis of UFC fight statistics (2010-current day) using machine learning models and EDA techniques.
+
+Performed exploratory data analysis of UFC fight statistic data with Python and literate programming techniques in JupyterHub, created visualizations and summary statistics to highlighting gender, weight class and fight metrics.
+Implemented machine learning models, including decision trees for feature selection, random forest classification with an R-squared accuracy score of 66% predicting winner of a fight, and multi-layer perceptron neural network regression (MLP) with an R-squared accuracy score of 50%, predicting the total time of a fight in seconds. 
+
